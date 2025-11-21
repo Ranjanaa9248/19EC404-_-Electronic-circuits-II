@@ -14,11 +14,9 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-21 at 13 13 30_265e04ff](https://github.com/user-attachments/assets/4cca96c8-b095-4dd2-bd86-3f179c10ae49)
 
-# Graph
-
-
-# Sample images 
 
 
 # Result
+Thus different clampers circuits are studied and their output waveforms are plotted.
